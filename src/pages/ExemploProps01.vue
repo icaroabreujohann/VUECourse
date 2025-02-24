@@ -6,5 +6,5 @@
 </script>
 
 <template>
-    <ExemploProps02 nome="John" idade="33"></ExemploProps02>
+    <ExemploProps02 nome="John" idade="32" :cidade="cidade" :cidades="cidades"></ExemploProps02>
 </template>

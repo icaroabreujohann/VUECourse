@@ -10,9 +10,11 @@
   import ExemploSubmit from './pages/ExemploSubmit.vue';
   import ExemploLifecycle from './pages/ExemploLifecycle.vue';
   import ExemploProps01 from './pages/ExemploProps01.vue';
+  import ExemploRotas from './pages/ExemploRotas.vue';
+  import Requisisoes from './pages/Requisisoes.vue';
 
 </script>
 
 <template>
-  <ExemploProps01></ExemploProps01>
+  <Requisisoes></Requisisoes>
 </template>
